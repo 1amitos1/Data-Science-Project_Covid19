@@ -3,10 +3,12 @@ Visual and semantic analyzes of tweets in New York, and US President Donald Trum
 
 this project contain 3 main step
 
-1-Preprocessing the data -->
+1-Preprocessing the data 
 
 2-train NaiveBayesClassifier model 
 
 3-test the data on the tweet,
 
-3- analysis the data using wordclud pi chart, HTML word search for each mounth
+4- analysis the data using wordclud pi chart, HTML word search for each mounth
+
+
